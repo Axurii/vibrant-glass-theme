@@ -31,7 +31,7 @@ to create custom gradient : https://cssgradient.io/ and copy the linear-gradient
     /*
     name of the Discord window (top left)
     default : "Vibrant Glass" */
-    --window-name: "Vibrant Glass";
+    --window-name: "Crystal + Cookie is gay <3";
     /*
     color of the Discord window name
     default : rgb(255, 255, 255) */
@@ -51,7 +51,7 @@ to create custom gradient : https://cssgradient.io/ and copy the linear-gradient
     /*
     it's just the Discord background URL, it has to be a direct link (ending with .png, .jpg, .gif)
     default : url('https://cdn.discordapp.com/attachments/696040243748536401/850445513542205531/1-IrFMpUu.png') */
-    --background-url: url('https://cdn.discordapp.com/attachments/696040243748536401/850445513542205531/1-IrFMpUu.png');
+    --background-url: url('https://cdn.discordapp.com/attachments/801460006729416724/911696931888201748/IMG_0752.jpg');
     /*
     background color used for opacity
     default : 0, 0, 0 */
